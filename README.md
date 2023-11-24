@@ -12,6 +12,7 @@ En este proyecto utilizamos el editor de código *Visual Studio Code* y los leng
 </ol>
 
 ### Vista previa
-<img width="960" alt="Captura_Google" src="https://github.com/Andiee-tech/google-clone/assets/123039598/205e3497-998c-4855-8852-a53c27730084">
+<img width="960" alt="Captura_Google" src="https://github.com/Andiee-tech/google-clone/assets/123039598/e9dba806-1370-4486-9dc8-5bdc6a7a487b">
+
 
 
